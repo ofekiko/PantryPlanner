@@ -221,3 +221,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Frontend (Node / React)
+node_modules/
+frontend/dist/
+frontend/build/
+
+# IDE & OS
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Local DB backups
+*.dump
+*.sql.bak
